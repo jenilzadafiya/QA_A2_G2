@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\QA_A2_G2\QA_A2_G2\bin\Debug\net8.0\QA_A2_G2.exe
+C:\Users\USER\Desktop\QA_A2_G2\QA_A2_G2\bin\Debug\net8.0\QA_A2_G2.deps.json
+C:\Users\USER\Desktop\QA_A2_G2\QA_A2_G2\bin\Debug\net8.0\QA_A2_G2.runtimeconfig.json
+C:\Users\USER\Desktop\QA_A2_G2\QA_A2_G2\bin\Debug\net8.0\QA_A2_G2.dll
+C:\Users\USER\Desktop\QA_A2_G2\QA_A2_G2\bin\Debug\net8.0\QA_A2_G2.pdb
+C:\Users\USER\Desktop\QA_A2_G2\QA_A2_G2\obj\Debug\net8.0\QA_A2_G2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\QA_A2_G2\QA_A2_G2\obj\Debug\net8.0\QA_A2_G2.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\QA_A2_G2\QA_A2_G2\obj\Debug\net8.0\QA_A2_G2.AssemblyInfo.cs
+C:\Users\USER\Desktop\QA_A2_G2\QA_A2_G2\obj\Debug\net8.0\QA_A2_G2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\QA_A2_G2\QA_A2_G2\obj\Debug\net8.0\QA_A2_G2.dll
+C:\Users\USER\Desktop\QA_A2_G2\QA_A2_G2\obj\Debug\net8.0\refint\QA_A2_G2.dll
+C:\Users\USER\Desktop\QA_A2_G2\QA_A2_G2\obj\Debug\net8.0\QA_A2_G2.pdb
+C:\Users\USER\Desktop\QA_A2_G2\QA_A2_G2\obj\Debug\net8.0\QA_A2_G2.genruntimeconfig.cache
+C:\Users\USER\Desktop\QA_A2_G2\QA_A2_G2\obj\Debug\net8.0\ref\QA_A2_G2.dll
